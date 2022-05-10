@@ -32,10 +32,6 @@ Here are some ideas to get you started:
   <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangxs1&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=Tangxs1&color=green)
-[![Github](https://img.shields.io/github/followers/Tangxs1?label=Github&style=social)](https://github.com/Tangxs1)
-
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=Tangxs1&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
