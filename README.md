@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=Tangxs1&color=blue)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=Tangxs1&color=green)
 [![Github](https://img.shields.io/github/followers/Tangxs1?label=Github&style=social)](https://github.com/Tangxs1)
 
 
